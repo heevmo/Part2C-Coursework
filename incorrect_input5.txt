@@ -1,0 +1,7 @@
+<person S Smith N Mary T +39.921.1434 E msmith@gmail.com >
+
+<person S Smith N Tom >
+
+<p S Smith N John>
+
+<person S Smith N Harry E hsmith@gmail.com >

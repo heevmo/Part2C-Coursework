@@ -1,0 +1,9 @@
+<person S Smith N Dick T +49.921.1434>
+
+<person S Zen N Xoxo T 000-000-000>
+
+<person <person S Smith N Dick T +1234567890> S Smith N Dick T +0987654321>
+
+<person S John N John >
+
+<person S Smith N John >

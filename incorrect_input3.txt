@@ -1,0 +1,10 @@
+<person S Zen N Xoxo T 000-000-000>
+
+<person S Smith N John >
+
+<person S John N Harry >
+
+<person S John N>
+
+<person S Smith N Dick T +49.921.1434 >
+

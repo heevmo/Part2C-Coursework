@@ -1,0 +1,36 @@
+Descriptions of input files:
+
+correct_input.txt - 
+
+The correct input file includes the same contact person added multiple times, to show that it is only added once, the container is updated. 
+
+We also have the same contact person added with different information (sometimes with telephone, sometimes with email, sometimes with both) to show how it updates in the container. 
+
+The input file also includes a contact that has the same surname and name to show that when it searches for the name/surname, the contact only prints once. 
+
+We also test to check that the contacts are printed in alphabetical order regardless of the order they’re written in the input file (e.g. Mary, Marian, Maria). 
+
+
+incorrect_input1.txt - 
+
+Checks to see that the code stops reading the input file once it reaches a string that doesn’t begin with angular brackets (<>).
+
+
+incorrect_input2.txt - 
+
+Checks to see that the code stops reading the input file when it encounters nested angular brackets.
+
+
+incorrect_input3.txt - 
+
+Checks to see that the code stops reading the input file when it encounters a vector with less/more information than expected.
+
+
+incorrect_input4.txt - 
+
+Checks to see that the code stops reading the input file when the order of the input is <person N [name] S [surname]> instead of <person S [surname] N [name]>.
+
+
+incorrect_input5.txt - 
+
+Checks to see that the code stops reading the input file when the vector doesn’t start with the word “person”.

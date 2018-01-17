@@ -1,0 +1,32 @@
+<person S Zen N Xoxo  >
+
+<person S Zen N Xoxo>
+
+<person S Zen N Xoxo T 000-000-000>
+
+
+<person S Smith N Mary T +39.921.1434 E msmith@gmail.com >
+
+<person S Smith N Mary E msmith@gmail.com >
+
+
+<person S John N John >
+
+<person S Smith N John >
+
+<person S John N Harry >
+
+
+<person S Smith N Dick T +49.921.1434 >
+
+<person S Smith N Mary T +39.921.1434 E msmith@gmail.com >
+
+<person S Smith N Dick T +49.921.1434 >
+
+<person S Smith N Harry E hsmith@gmail.com >
+
+<person S Smith N Mary T +39.921.1434 E msmith@gmail.com >
+
+<person S Smith N Maria T +39.921.1434>
+
+<person S Smith N Marian T +39.921.1434>
